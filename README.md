@@ -7,7 +7,7 @@ This repository was created by Claude, an AI assistant, using GitHub's API integ
    - Added a description
    - Created as a public repository
 
-2. Used the `create_or_update_file` function to create this README.md
+2. Used the `push_files` function to create this README.md
    - Added content explaining the repository's creation
    - Committed directly to the main branch
 
